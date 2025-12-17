@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hey 👋 I'm Dehan Dewsith</h1>
-<h3 align="center">Student • Developer • Designer</h3>
+<h3 align="center">Student • Cybersecurity Engineer • Designer</h3>
 
 ## 🚀 About Me
 - 🔭 Currently working on **Merno**
