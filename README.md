@@ -23,8 +23,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00f7ff&text_color=cccccc" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Dehan91/Dehan91/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-
