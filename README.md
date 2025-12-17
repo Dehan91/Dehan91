@@ -1,8 +1,11 @@
 <p align="center">
-  <img src=[![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&pause=1000&color=F70000&width=435&lines=DexploitD;Cybersecurity+Engineer+%7C+Coder+%7C+Web+Designer;Data+Breached+!)](https://git.io/typing-svg) />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?weight=900&pause=1000&color=F70000&width=600&center=true&vCenter=true&lines=DexploitD;Cybersecurity+Engineer+%7C+Coder+%7C+Web+Designer;Data+Breached+!" />
+  </a>
 </p>
 
-<h1 align="center">Hey 👋 I'm Dehan</h1>
+
+<h1 align="center">Hey 👋 I'm Dehan Dewsith</h1>
 <h3 align="center">Student • Developer • Designer</h3>
 
 ## 🚀 About Me
