@@ -24,10 +24,11 @@
 </p>
 <div align="center">
 <pre>
-> system.boot()
-> auth.override()
-> access.granted
+┌──(dehan㉿kali)-[~/root]
+└─# whoami
+root
 </pre>
 </div>
+
 
 
