@@ -24,11 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dehan91&style=for-the-badge&color=blue" />
-</p>
-<p align="center">
   <img src="https://github.com/Dehan91/Dehan91/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 
