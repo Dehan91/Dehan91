@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Dehan91&style=for-the-badge&color=blue" />
 </p>
 
 
