@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Dehan;Student+%7C+Developer+%7C+Designer;Building+Merno" />
+</p>
+
 <h1 align="center">Hey 👋 I'm Dehan</h1>
 <h3 align="center">Student • Developer • Designer</h3>
 
@@ -7,8 +11,8 @@
 - 🧠 Cybersecurity Engineer
 - 🌍 From Sri Lanka 🇱🇰
 ## 🛠 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,figma,ps,ai,pr,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,figma,ps&theme=dark" />
 </p>
 ## 💻 Languages
 <p>
