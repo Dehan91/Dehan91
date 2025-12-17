@@ -22,10 +22,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00f7ff&text_color=cccccc" />
 </p>
-┌──(root㉿kali)-[~/exploit]
-└─# nmap -sV target.com
-[+] Port 22   OPEN  ssh
-[+] Port 80   OPEN  http
-[+] Access Granted...
+<div align="center">
+<pre>
+> system.boot()
+> auth.override()
+> access.granted
+</pre>
+</div>
 
 
