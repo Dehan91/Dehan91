@@ -22,8 +22,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&theme=tokyonight" />
 </p>
-```bash
-  /\_/\  
- ( o.o ) 
-  > ^ <
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+</p>
+
 
