@@ -14,14 +14,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,figma,ps&theme=dark" />
 </p>
-## 💻 Languages
+💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
 </p>
-## 📊 GitHub Stats
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dehan91&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=00f7ff&text_color=cccccc" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dehan91&style=for-the-badge&color=blue" />
 </p>
